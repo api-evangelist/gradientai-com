@@ -64,5 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gradient Health is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by techstars) and added to the network as a stub for full-pipeline profiling.
-- https://gradientai.com/
+Gradient Health provides AI-powered decision intelligence for insurers, helping them assess risk, manage claims, and improve profitability. Their platform leverages proprietary data and machine learning to deliver real‑world outcomes, offering solutions for health, property, and casualty insurance sectors, with over 300 enterprise deployments and a 95%+ client retention rate.
+
+**Areas:** Company · AI · Insurance · Risk Management · Healthcare · Technology
+
+## Gradient Health on APIs.io
+
+Everything profiled for Gradient Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gradientai-com/](https://apis.io/providers/gradientai-com/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gradientai Com Authentication](https://apis.io/security/gradientai-com/gradientai-com-authentication/)
+- [Gradientai Com Domain Security](https://apis.io/security/gradientai-com/gradientai-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Gradientai Com Scopes](https://apis.io/scopes/gradientai-com/gradientai-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Gradientai Com Plans Pricing](https://apis.io/plans/gradientai-com/gradientai-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Gradientai Com Rate Limits](https://apis.io/rate-limits/gradientai-com/gradientai-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gradientai.com/)
+- [Documentation](https://www.gradientai.com/resources/)
+- [Support](https://www.gradientai.com/contact/)
+- [Blog](https://www.gradientai.com/resources/)
+- [Terms of service](https://www.gradientai.com/terms-of-use/)
+- [Privacy policy](https://www.gradientai.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 14.6** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 21.1 |
+
+**Agent readiness 22.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 30.3** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gradientai-com/](https://apis.io/providers/gradientai-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gradient Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gradientai-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
